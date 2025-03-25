@@ -14,7 +14,7 @@ Account::Account(int initial_deposit)
 	_totalAmount += this->_amount;
 	this->_accountIndex = Account::_nbAccounts;
 	_nbAccounts++;
-	this->_nbDeposits = 1;
+	this->_nbDeposits = 0;
 	_totalNbDeposits += this->_nbDeposits;
 	this->_nbWithdrawals = 0;
 	std::cout << "index:" << this->_accountIndex << ";";
