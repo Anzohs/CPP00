@@ -18,10 +18,11 @@ For more details, please refer to the official [subject PDF](https://cdn.intra.4
 ## Repository Structure
 
 This repository is organized as follows:
-CPP00/ ├── ex00/ # Exercise 00 
-       ├── ex01/ # Exercise 01 
-       ├── ex02/ # Exercise 02 
-       ├── ex03/ # Exercise 03 
+- **CPP00/**
+  - `ex00/` - Exercise 00
+  - `ex01/` - Exercise 01
+  - `ex02/` - Exercise 02
+  - `ex03/` - Exercise 03
 
 Each exercise is self-contained and includes:
 - A `main.cpp` file to test the implementation.
