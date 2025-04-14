@@ -13,8 +13,6 @@ The **CPP Module 00** is the first module in the C++ curriculum at 42 School. It
 - Introduction to the `std::string` class.
 - Memory allocation and initialization.
 
-For more details, please refer to the official [subject PDF](https://cdn.intra.42.fr/pdf/pdf/156953/en.subject.pdf).
-
 ## Repository Structure
 
 This repository is organized as follows:
